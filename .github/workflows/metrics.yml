@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Metrics
+      - name: General
         uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/general.*
