@@ -21,12 +21,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/general.*
+          config_timezone: Europe/Rome
+          base: metadata
 
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/languages.*
+          config_timezone: Europe/Rome
+          base: metadata
+
           plugin_languages: true
           plugin_languages_other: true
       
@@ -34,7 +39,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/social.*
+          filename: metrics/languages.*
+          config_timezone: Europe/Rome
+          base: metadata
+
           plugin_people: true
           plugin_people_types: thanks, followers
           plugin_people_thanks: dddevid
@@ -45,7 +53,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/featured.*
+          filename: metrics/languages.*
+          config_timezone: Europe/Rome
+          base: metadata
+          
           plugin_repositories: true
           plugin_repositories_featured: spotifinity
       
@@ -53,7 +64,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/wakatime.*
+          filename: metrics/languages.*
+          config_timezone: Europe/Rome
+          base: metadata
+          
           plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_languages_other: true
