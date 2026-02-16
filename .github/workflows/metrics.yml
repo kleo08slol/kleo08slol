@@ -17,13 +17,13 @@ jobs:
     steps:
 
       - name: General
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/general.*
 
       - name: Languages
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/languages.*
@@ -31,7 +31,7 @@ jobs:
           plugin_languages_other: true
       
       - name: Social
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/social.*
@@ -42,7 +42,7 @@ jobs:
           plugin_sponsors_sections: goal, list
 
       - name: Featured
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/featured.*
@@ -50,7 +50,7 @@ jobs:
           plugin_repositories_featured: spotifinity
       
       - name: WakaTime
-        uses: lowlighter/metrics@main
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/wakatime.*
