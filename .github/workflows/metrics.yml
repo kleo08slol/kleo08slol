@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/languages.*
+          filename: metrics/social.*
           config_timezone: Europe/Rome
           base: metadata
 
@@ -53,7 +53,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/languages.*
+          filename: metrics/featured.*
           config_timezone: Europe/Rome
           base: metadata
           
@@ -64,7 +64,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/languages.*
+          filename: metrics/wakatime.*
           config_timezone: Europe/Rome
           base: metadata
           
