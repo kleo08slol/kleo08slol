@@ -22,7 +22,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/general.*
           config_timezone: Europe/Rome
-          base: metadata
 
       - name: Languages
         uses: lowlighter/metrics@latest
