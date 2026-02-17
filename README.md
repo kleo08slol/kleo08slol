@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Kleo08s&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Kleo08s&section=header)
 
 **Hello!** 👋 I'm a silly developer from Italy.
 
@@ -10,4 +10,10 @@ I love coding in Python, HTML and many other languages.
 
 Self-Taught Dev
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=footer)
+</div>
+
+# Stats
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
