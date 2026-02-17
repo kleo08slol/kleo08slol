@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Kleo08s&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Kleo08s&section=header)
 
 **Hello!** 👋 I'm a silly developer from Italy.
 
@@ -10,12 +10,27 @@ I love coding in Python, HTML and many other languages.
 
 Self-Taught Dev
 
-| 🦡 **Badges** | 🔗 **Links** |
-| --- | --- |
-| ![](https://komarev.com/ghpvc/?username=kleo08s&color=0fad4b) | [![](https://img.shields.io/discord/1352569375256744006?style=flat&logo=discord&logoColor=white&label=Discord&color=5865f2)](https://kleo08s.lol/discord) [![](https://img.shields.io/youtube/channel/subscribers/UCkAKhq1JTL2HEOphLcGJOfQ?style=flat&logo=youtube&label=YouTube)](https://www.youtube.com/@gocciolabtw) [![](https://img.shields.io/bluesky/followers/kleo08s.lol?style=flat&logo=bluesky&logoColor=white&label=Bluesky&color=1185FE)](https://bsky.app/profile/kleo08s.lol) |
-| ⭐ **GitHub Stats** | 📊 **Top Languages** |
-| ![General](metrics/general.svg) | ![Top Langs](/metrics/languages.svg) |
-| ⌛ **WakaTime** | 🙌 **Social** |
-| ![WakaTime](metrics/wakatime.svg) | ![Social](metrics/social.svg) |
+<table><tbody>
+  <tr>
+    <td align="center" colspan="2"><b>✨ Some of my fancy stats! ✨</b></td>
+  </tr>
+  <tr>
+    <td align="center">⭐ <b>GitHub Stats</b></td>
+    <td align="center">📊 <b>Top Languages</b></td>
+  </tr>
+  <tr>
+    <td><img src="metrics/general.svg" alt="General"></td>
+    <td><img src="metrics/languages.svg" alt="General"></td>
+  </tr>
+  <tr>
+    <td align="center">⌛ <b>WakaTime</b></td>
+    <td align="center">❤️ <b>Sponsors</b></td>
+  </tr>
+  <tr>
+    <td><img src="metrics/wakatime.svg" alt="General"></td>
+    <td><img src="metrics/social.svg" alt="General"></td>
+  </tr>
+</tbody></table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
+![](https://komarev.com/ghpvc/?username=kleo08s&color=0fad4b)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=footer)
