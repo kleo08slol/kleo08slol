@@ -152,7 +152,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=kleo08s&color=0fad4b" alt="General">
   <img src="https://kleo08s.lol/badge.png" alt="General">
-  <img alt="Discord" src="https://img.shields.io/discord/1352569375256744006?logo=discord&logoColor=white&label=Discord&color=5865F2&link=https%3A%2F%2Fkleo08s.lol%2Fdiscord">
+  <a href="https://kleo08s.lol/discord"><img alt="Discord" src="https://img.shields.io/discord/1352569375256744006?logo=discord&logoColor=white&label=Discord&color=5865F2"></a>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=footer" alt="General">
 </div>
