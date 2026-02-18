@@ -2,13 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Kleo08s&section=header)
 
-**Hello!** 👋 I'm a silly developer from Italy.
+**Hello!** 👋 I'm a silly Self-Taught 17yr old developer from Italy.
 
 I love coding in Python, HTML and many other languages.
-
-🎂 I'm 17, my birthday is on the 2nd of June.
-
-Self-Taught Dev
 
 <table><tbody>
   <tr>
@@ -31,6 +27,12 @@ Self-Taught Dev
     <td><img src="metrics/social.svg" alt="General"></td>
   </tr>
 </tbody></table>
+</div>
+
+## Projects i'm active on
+These are some of the projects i made/i'm working on rn.
+
+![Featured projects](metrics/featured.svg)
 
 ![](https://komarev.com/ghpvc/?username=kleo08s&color=0fad4b)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=footer)
