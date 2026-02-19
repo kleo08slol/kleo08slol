@@ -48,17 +48,6 @@ jobs:
           plugin_people_thanks: dddevid
           plugin_sponsors: true
           plugin_sponsors_sections: goal, list
-
-      - name: Featured
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/featured.*
-          config_timezone: Europe/Rome
-          base: metadata
-          
-          plugin_repositories: true
-          plugin_repositories_featured: spotifinity
       
       - name: WakaTime
         uses: lowlighter/metrics@latest
