@@ -30,7 +30,7 @@
 <h2>📂 Projects i'm active on</h2>
 <p>These are some of the projects i made/i'm working on rn.</p>
 
-<a href="extras/featured.md><img src="metrics/featured.svg" alt="Featured repositories"></a>
+<a href="extras/featured.md"><img src="metrics/featured.svg" alt="Featured repositories"></a>
 
 <i>Wanna see all of my repos? <a href="https://github.com/Kleo08s?tab=repositories">click here!</a></i>
 
