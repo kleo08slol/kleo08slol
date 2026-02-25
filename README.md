@@ -13,8 +13,8 @@
       <td align="center">📊 <b>Top Languages</b></td>
     </tr>
     <tr>
-      <td><img src="metrics/general.svg" alt="General"></td>
-      <td><img src="metrics/languages.svg" alt="General"></td>
+      <td><a href="#"><img src="metrics/general.svg" alt="General"></a></td>
+      <td><a href="#"><img src="metrics/languages.svg" alt="General"></a></td>
     </tr>
     <tr>
       <td align="center">⌛ <b>WakaTime</b></td>
@@ -150,8 +150,8 @@
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=kleo08s&color=0fad4b" alt="General">
-  <img src="https://kleo08s.lol/badge.png" alt="General">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=kleo08s&color=0fad4b" alt="General"></a>
+  <a href="https://kleo08s.lol"><img src="https://kleo08s.lol/badge.png" alt="General"></a>
   <a href="https://kleo08s.lol/discord"><img alt="Discord" src="https://img.shields.io/discord/1352569375256744006?logo=discord&logoColor=white&label=Discord&color=5865F2"></a>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=footer" alt="General">
