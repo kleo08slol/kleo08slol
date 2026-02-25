@@ -21,8 +21,8 @@
       <td align="center">❤️ <b>Sponsors</b></td>
     </tr>
     <tr>
-      <td><img src="metrics/wakatime.svg" alt="General"></td>
-      <td><img src="metrics/social.svg" alt="General"></td>
+      <td><a href="https://wakatime.com/@Kleo08s"><img src="metrics/wakatime.svg" alt="General"></a></td>
+      <td><a href="https://github.com/sponsors/Kleo08s"><img src="metrics/social.svg" alt="General"></a></td>
     </tr>
   </tbody></table>
 </div>
