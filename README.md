@@ -1,7 +1,11 @@
+> [!NOTE]  
+> GitHub suspended my old account without notice or reason, this account contains only repo of large projects and 100% compliant of GitHub's TOS (although I respected the TOS before).
+> For any other repo you can visit [my site](https://git.kleo08s.lol/Kleo08s) where I'll upload small projects or random things.
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Kleo08s&section=header" alt="Header">
 
-  <p><b>Hello!</b> 👋 I'm a silly Self-Taught 17yr old developer from Italy.</p>
+  <p><b>Hey!</b> 👋 I'm a silly Self-Taught kid developer from Italy.</p>
   <p>I love coding in Python, HTML and many other languages.</p><br>
 
   <table><tbody>
@@ -22,7 +26,7 @@
     </tr>
     <tr>
       <td><a href="https://wakatime.com/@Kleo08s"><img src="metrics/wakatime.svg" alt="General"></a></td>
-      <td><a href="https://github.com/sponsors/Kleo08s"><img src="metrics/social.svg" alt="General"></a></td>
+      <td><a href="https://github.com/sponsors/kleo08slol"><img src="metrics/social.svg" alt="General"></a></td>
     </tr>
   </tbody></table>
 </div>
@@ -32,7 +36,7 @@
 
 <a href="extras/featured.md"><img src="metrics/featured.svg" alt="Featured repositories"></a>
 
-<i>Wanna see all of my repos? <a href="https://github.com/Kleo08s?tab=repositories">click here!</a></i>
+<i>Wanna see all of my repos? <a href="https://github.com/kleo08slol?tab=repositories">click here!</a></i>
 
 <h2>✏️ Programming Languages & Softwares</h2>
 <p>I know several programming languages, from easy ones (HTML, CSS, JS and Python) to slightly harder ones (Lua).</p>
